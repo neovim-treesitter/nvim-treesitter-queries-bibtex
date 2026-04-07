@@ -1,9 +1,9 @@
 {
   "generate": null,
-  "generate_from_json": null,
+  "parser_version": "8d04ed27b3bc7929f14b7df9236797dab9f3fa66",
+  "location": null,
+  "lang": "bibtex",
   "url": "https://github.com/latex-lsp/tree-sitter-bibtex",
   "semver": false,
-  "lang": "bibtex",
-  "location": null,
-  "parser_version": "8d04ed27b3bc7929f14b7df9236797dab9f3fa66"
+  "generate_from_json": null
 }
